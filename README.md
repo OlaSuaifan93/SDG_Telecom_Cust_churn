@@ -49,7 +49,7 @@ model = load('Best_model.joblib')
 5. `recurring_charge_gap` - **5.88%**
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Ola Suaifan](https://github.com/OlaSuaifan93)
 
 ## License
 This project is licensed under the MIT License.
